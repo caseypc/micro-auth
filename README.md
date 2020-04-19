@@ -1,5 +1,15 @@
-Tong is one file simple and small codeigniter library for user management and authentication.
+### What Is
+This library is one file simple and small Codeigniter class/library for user management and authentication.
 
-Ability:
-Register, update, login check, user check, forgot password handle, session handle, user type check
-logout handle, user log, failed attempt log.
+### Feature
+
+- Register
+- Update
+- Login check
+- User check
+- Forgot password handle
+- Session handle
+- User type check
+- Logout handle
+- User log
+- Failed attempt log.
