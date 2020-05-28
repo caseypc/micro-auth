@@ -1,5 +1,5 @@
 ### What Is
-This library is one file simple and small Codeigniter class/library for user management and authentication.
+PHP auth and authorization in a single PHP file. Inspired by https://www.adminer.org/
 
 ### Feature
 
